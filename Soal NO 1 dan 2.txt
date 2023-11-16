@@ -1,0 +1,21 @@
+1. Kerangka kerja yang diciptakan untuk membantu web developer dalam penulisan kode akan jauh lebih mudah, cepat, dan terstruktur rapi.
+
+1.	Sebutkan tema proyek yang sedang digarap!
+Klinik 
+2.	Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota! 
+Nahda hadaya nasywa 1182 
+Aldi frasetya putra pratama 1120
+Putri natasya 
+
+3.	Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah) 
+
+Antrian :
+Permasalahan = 
+- Pasien masih dantang ke klinik untuk mengambil antirian
+Solusi =
+-	Membuat antrian onlen agar memperpendek jangka waktu, mengurangi antrian yang membeludak, mempermudah dalam membuat janji dengan dokter.
+Pemberkasan data pasien:
+Permasalahan =
+-	Data pasien masih berbentuk arsip
+Solusi =
+-	Membuat data pasien yang tersimpan didalam data base agar lebih ter struktur dan mudah untuk di akses.
